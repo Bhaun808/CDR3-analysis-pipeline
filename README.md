@@ -43,5 +43,4 @@ Notes
 The average linkage method is used for clustering to balance between extremes (e.g., single vs. complete linkage).
 Ethnicity information is used to explore genetic diversity among different populations, highlighting population-specific immune responses.
 
-Contributing
 Contributions are welcome! Feel free to submit issues or pull requests to enhance the features or fix bugs.
